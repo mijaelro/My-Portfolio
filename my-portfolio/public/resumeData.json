@@ -1,0 +1,145 @@
+{
+  "main": {
+    "name":"Mijael's Portfolio",
+    "description":"I am a Fullstack developer and I use react and spring to develop apps ",
+    "image":"profilepic.jpg",
+    "bio":"Brand new programmer that loves learning new things and enjoys the sentence compiled successfully. I speak Spanish , English and Hebrew. I immigrated to Israel independently at a young age (15), and developed adaptive abilities to different places. I always had the curiosity to learn a programming language , so when i started looking up famous languages and saw that java is one of the must famous languages in the world ,  i decided to take a course on it , altogether with fullstack." ,
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "mijaelro@gmail.com",
+    "phone": "052-6633-986",
+    "github":"https://github.com/mijaelro",
+    "project":"https://github.com/nordicgiant2/react-nice-resume",
+    "address":{
+      "street":"(Borer street)",
+      "city":"(Herzliyah)",
+      "state":"(Gush Dan)",
+      "zip": "(4673103)"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload":"resume.jpg",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/Mijael.Rofe/",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/mijael-rofe-42a264180/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/mijaelro/",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/mijaelro",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "education":[
+      {
+        "school":"College",
+        "degree":"Course certificate",
+        "graduated":"October 2021",
+        "description":"I did a fullstack course in John Bryce ,i learned Java, Spring framework ,React library,and more..."
+      },
+      {
+        "school":"School",
+        "degree":"HighSchool",
+        "graduated":"March 2015",
+        "description":"Immigrated to Israel in 2012 and did highSchool with a full matriculation."
+      }
+    ],
+    "work":[
+      {
+        "type":"Creational",
+        "description":"Singleton, Factory method, Abstract  Factory method, Prototype,Builder."
+      },
+      {
+        "type":"Structural",
+        "description":"Bridge, Decorator, Adapter, Facade,Composite,Proxy"
+      },
+      {
+        "type":"Behavioral",
+        "description":"Observer"
+      }
+    ]
+    ,
+    "skills":[
+      {
+        "name":"Java",
+        "level":"80%"
+      },
+      {
+        "name":"Design Patterns",
+        "level":"50%"
+      },
+      {
+        "name":"Js/Ts",
+        "level":"45%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"58%"
+      },
+      {
+        "name":"CSS+Html",
+        "level":"60%"
+      },
+      {
+        "name":"Spring",
+        "level":"75%"
+      },
+      {
+        "name":"Sql",
+        "level":"20%"
+      }
+    ]
+  },
+  "cv":{
+    "title":"cv",
+    "image":"cv.jpg"
+  },
+  "portfolio":{
+   
+    "projects": [
+      {
+        "title":"Tracker",
+        "category":"Fullstack project to Keep track of your expenses,links,todo's.",
+        "image":"02.jpg",
+        "url":"https://n-tracker.herokuapp.com/"
+      },
+      {
+        "title":"Coupon-system",
+        "category":"Fullstack project to manage coupons that i did in John Bryce",
+        "image":"03.jpg",
+        "url":"https://clicknsave-coupons.herokuapp.com/"
+      },
+      {
+        "title":"My-Portfolio ",
+        "category":"A React based resume website template",
+        "image":"04.jpg",
+        "url":"http://mijael-rofe-portfolio.herokuapp.com"
+      },
+      {
+        "title":"Mi-Burger",
+        "category":"simple burger builder app made with React.js.",
+        "image":"05.jpg",
+        "url":"http://mija-burger.herokuapp.com"
+      },
+      {
+        "title":"Quiz app",
+        "category":"Quiz of Job interview questions fullstack app made with React.js.",
+        "image":"06.jpg",
+        "url":"http://java-my-quizz.herokuapp.com"
+      }
+     
+    ]
+  }
+}
